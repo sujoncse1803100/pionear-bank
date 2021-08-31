@@ -1,0 +1,15 @@
+body {
+    padding: 100px;
+}
+
+.login-div {
+    box-shadow: 0px 5px 10px gray;
+}
+
+.login-div input {
+    width: 300px;
+}
+
+.login-button {
+    width: 100px;
+}
